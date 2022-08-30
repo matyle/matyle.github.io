@@ -27,3 +27,8 @@
 - [《UINX编程艺术》](./read/upa.md)
 
 
+## Github仓库
+- [计算机相关知识笔记](https://github.com/matyle/basic-computer-notes)
+    - 主要包含 c++基础，刷题，强化学习等笔记
+
+- [golang-improve代码例子（笔记整理中）](https://github.com/matyle/go-improve)
