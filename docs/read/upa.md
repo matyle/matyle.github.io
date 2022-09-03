@@ -33,7 +33,7 @@
 - **4.分离原则：策略同机制分离，接口同引擎分离。**
 - 5.简洁原则：设计要简洁，复杂度能低则低。
 - 6.吝啬原则：除非确无它法，不要编写庞大的程序。
-[[《UNIX 编程艺术》第4章 模块性：保持清晰，保持简洁]]
+[[《UNIX 编程艺术》4 第4章 模块性：保持清晰，保持简洁]]
 - 7.透明性原则：设计要可见，以便审查和调试。
 - 8.健壮原则：健壮源于透明与简洁。
 - 9.表示原则：把知识叠入数据以求逻辑质朴而健壮。
@@ -52,7 +52,7 @@ Unix 哲学是这本书的精华（也正是编程艺术的体现），特别是
 
 ---
 #book 
-[[《UNIX编程艺术》第一章 规范]]
+[[《UNIX编程艺术》1 第一章 规范]]
 
 
 [gitlab博客](www.matytan.gitlab.io)
@@ -60,3 +60,20 @@ Unix 哲学是这本书的精华（也正是编程艺术的体现），特别是
 [博客园博客](https://www.cnblogs.com/matytan/)
 
 [github 博客](https://www.matyle.github.io)
+
+<script src="https://giscus.app/client.js"
+        data-repo="matyle/matyle.github.io"
+        data-repo-id="R_kgDOH357Cw"
+        data-category="Ideas"
+        data-category-id="DIC_kwDOH357C84CRBWd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+

@@ -10,8 +10,6 @@
   </p>
 </p>
 
-
-
 ## 开发工具编辑器
 
 ### Vim操作
@@ -32,3 +30,36 @@
     - 主要包含 c++基础，刷题，强化学习等笔记
 
 - [golang-improve代码例子（笔记整理中）](https://github.com/matyle/go-improve)
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://github.com/matyle/go-improve" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://opengraph.githubassets.com/498153b79b3f6f7007c15f1847d5fa74f4634b0a66241feb66bbbcf497960231/matyle/go-improve')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">GitHub - matyle/go-improve</h1>
+		<p class="rich-link-card-description">
+		Contribute to matyle/go-improve development by creating an account on GitHub.
+		</p>
+		<p class="rich-link-href">
+		https://github.com/matyle/go-improve
+		</p>
+	</div>
+</a></div>
+
+---
+<script src="https://giscus.app/client.js"
+        data-repo="matyle/matyle.github.io"
+        data-repo-id="R_kgDOH357Cw"
+        data-category="Ideas"
+        data-category-id="DIC_kwDOH357C84CRBWd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
