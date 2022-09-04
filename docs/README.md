@@ -19,6 +19,9 @@
 ### Vim 插件
 - [vim最常用插件](./vim/mostlyplug.md)
 
+### CLI 优秀好用的工具（终端使用）
+- [最好用的 git 客户端](./terminal/lazygit.md)
+
 
 ##  读书
 
