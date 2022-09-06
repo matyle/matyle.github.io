@@ -10,10 +10,12 @@
 ### lazygit做了什么
 - lazygit 将复杂的命令行转为了终端 ui 操作，只需要记住几个快捷键，甚至都不用记忆，可以按 x 提示，然后使用，用多了自然就快了。
 - 使用 lazygit 你仍然需要学习 git，知道 git 中各个操作代表什么！然后才能来 lazy！！！
+![](https://cdn.jsdelivr.net/gh/matyle/tupic/img/20220904124536.png)
 
 
 ### 为什么使用
 - 简化输入命令的次数
+	- git pull push add commit rebase reset... pickcherry
 - 简化 rebase，commit，tag 等操作
 - every thing is Simple！！
 
@@ -52,6 +54,7 @@
  
 ```bash
 // mac
+
 brew install jesseduffield/lazygit/lazygit
 
 //linux ubuntu 下面3步
