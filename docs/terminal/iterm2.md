@@ -72,3 +72,5 @@ git clone git@github.com:matyle/awesome-iTerm2-color.git
 ## 更多颜色搭配
 -  点击 online 选项能够下载更多，选择你喜欢的吧！
 ![](https://raw.githubusercontent.com/matyle/tupic/master/img/20220906212725.png)
+
+
