@@ -7,3 +7,6 @@
 ### git rebase -i 
 
 
+### git pull --rebase
+
+
