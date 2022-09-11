@@ -23,6 +23,7 @@
 - [最优秀的终端](./terminal/iterm2.md)
 - [最好用的 git 客户端](./terminal/lazygit.md)
 - [MarkDown笔记软件](./bilibili/Markdown笔记软件.md)
+- [zsh美化配置](./terminal/zshconf.md)
 
 
 ##  读书
