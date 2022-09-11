@@ -20,8 +20,12 @@
 # s, squash <commit> = use commit, but meld into previous commit
 ```
 
+#### 命令行操作
+<img src="https://raw.githubusercontent.com/matyle/tupic/master/img/20220911111505.png" style="zoom:50%;" />
+#### lazygit 操作
 - 对应 lazygit 在提交信息栏，按 x 可以查看对应命令
-![](https://raw.githubusercontent.com/matyle/tupic/master/img/20220911110455.png)
+<img src="https://raw.githubusercontent.com/matyle/tupic/master/img/20220911110455.png" style="zoom:30%;" />
+![]()
 
 
 ### git rebase branch
@@ -29,7 +33,6 @@
 	- dev 开发完合并到了 master
 	- 然后 dev2 开发完再去合并 master，我们可以看到 commit 2c8284ac出现分支，并且显示 Merge branch ‘dev2’
 	- 此时我们想去掉这个分支
-
 <img src="https://raw.githubusercontent.com/matyle/tupic/master/img/20220911104042.png" style="zoom:30%;" />
 
 - 使用`git rebase dev2` 或者在 lazygit 光标放在 `dev2` 上面按 `r` (不清楚命令可以通过 x 查看)

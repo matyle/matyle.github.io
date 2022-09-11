@@ -1,7 +1,7 @@
 
 - 本次介绍 iterm2软件的配置，不涉及到 zsh或者 bash 的美化
 - 介绍up 修改的美化主题配置：**[awesome-iTerm2-color](https://github.com/matyle/awesome-iTerm2-color)**
--  [[@配置我的zsh zim插件]] --下次介绍zsh 美化
+-  [[@配置我的zsh zim插件和 p10k 主题]] --下次介绍zsh 美化
 
 ## 安装iterm2（Macos)
 - 其他系统暂不支持
